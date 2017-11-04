@@ -1,0 +1,26 @@
+def articles():
+    articles = [
+        {
+            'id':1,
+            'title':'Article 1',
+            'body':'Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus voluptas atque culpa dicta, vero illo tenetur laudantium aperiam harum explicabo quam quasi aliquid id ipsum ducimus, perferendis mollitia dolorum provident laborum distinctio ad quia. Inventore quam soluta quas fugiat explicabo laudantium harum praesentium. Alias excepturi perspiciatis harum deleniti voluptates atque itaque, adipisci eos maiores. Exercitationem et quidem similique architecto vel iste voluptate molestiae illum ex quo sapiente ab, aspernatur, sunt incidunt explicabo totam inventore blanditiis corporis voluptatibus dolorem unde at? Animi, architecto voluptatibus iure, natus quae non quos quas libero neque sapiente dignissimos eveniet reprehenderit nisi eius laudantium. Placeat inventore deleniti qui dolor id eos assumenda sit laborum, nam nesciunt accusamus eum cum rem doloribus! Laudantium et excepturi deserunt sunt consectetur adipisci iusto eveniet perferendis! Et asperiores quisquam magnam. Deleniti, praesentium quidem animi nesciunt autem expedita. Praesentium odio corrupti pariatur unde possimus iure, ratione eos ipsa ex sint consequatur assumenda doloribus veniam labore hic saepe vel consequuntur itaque nesciunt! Voluptatibus possimus error architecto reprehenderit sapiente, dolorem fugiat dicta a nihil delectus ullam, laboriosam, dolore dolor quod laborum corporis suscipit alias. Placeat quae cumque nihil, consectetur quidem voluptatibus ipsum laboriosam. Consequatur tempora repellendus aliquid necessitatibus assumenda? Temporibus explicabo est reprehenderit maxime!',
+            'author':'myself',
+            'date':'04-11-2017'
+        },
+        {
+            'id':2,
+            'title':'Article 2',
+            'body':'Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus voluptas atque culpa dicta, vero illo tenetur laudantium aperiam harum explicabo quam quasi aliquid id ipsum ducimus, perferendis mollitia dolorum provident laborum distinctio ad quia. Inventore quam soluta quas fugiat explicabo laudantium harum praesentium. Alias excepturi perspiciatis harum deleniti voluptates atque itaque, adipisci eos maiores. Exercitationem et quidem similique architecto vel iste voluptate molestiae illum ex quo sapiente ab, aspernatur, sunt incidunt explicabo totam inventore blanditiis corporis voluptatibus dolorem unde at? Animi, architecto voluptatibus iure, natus quae non quos quas libero neque sapiente dignissimos eveniet reprehenderit nisi eius laudantium. Placeat inventore deleniti qui dolor id eos assumenda sit laborum, nam nesciunt accusamus eum cum rem doloribus! Laudantium et excepturi deserunt sunt consectetur adipisci iusto eveniet perferendis! Et asperiores quisquam magnam. Deleniti, praesentium quidem animi nesciunt autem expedita. Praesentium odio corrupti pariatur unde possimus iure, ratione eos ipsa ex sint consequatur assumenda doloribus veniam labore hic saepe vel consequuntur itaque nesciunt! Voluptatibus possimus error architecto reprehenderit sapiente, dolorem fugiat dicta a nihil delectus ullam, laboriosam, dolore dolor quod laborum corporis suscipit alias. Placeat quae cumque nihil, consectetur quidem voluptatibus ipsum laboriosam. Consequatur tempora repellendus aliquid necessitatibus assumenda? Temporibus explicabo est reprehenderit maxime!',
+            'author':'myself again',
+            'date':'04-11-2017'
+        },
+        {
+            'id':3,
+            'title':'Article 3',
+            'body':'Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus voluptas atque culpa dicta, vero illo tenetur laudantium aperiam harum explicabo quam quasi aliquid id ipsum ducimus, perferendis mollitia dolorum provident laborum distinctio ad quia. Inventore quam soluta quas fugiat explicabo laudantium harum praesentium. Alias excepturi perspiciatis harum deleniti voluptates atque itaque, adipisci eos maiores. Exercitationem et quidem similique architecto vel iste voluptate molestiae illum ex quo sapiente ab, aspernatur, sunt incidunt explicabo totam inventore blanditiis corporis voluptatibus dolorem unde at? Animi, architecto voluptatibus iure, natus quae non quos quas libero neque sapiente dignissimos eveniet reprehenderit nisi eius laudantium. Placeat inventore deleniti qui dolor id eos assumenda sit laborum, nam nesciunt accusamus eum cum rem doloribus! Laudantium et excepturi deserunt sunt consectetur adipisci iusto eveniet perferendis! Et asperiores quisquam magnam. Deleniti, praesentium quidem animi nesciunt autem expedita. Praesentium odio corrupti pariatur unde possimus iure, ratione eos ipsa ex sint consequatur assumenda doloribus veniam labore hic saepe vel consequuntur itaque nesciunt! Voluptatibus possimus error architecto reprehenderit sapiente, dolorem fugiat dicta a nihil delectus ullam, laboriosam, dolore dolor quod laborum corporis suscipit alias. Placeat quae cumque nihil, consectetur quidem voluptatibus ipsum laboriosam. Consequatur tempora repellendus aliquid necessitatibus assumenda? Temporibus explicabo est reprehenderit maxime!',
+            'author':'someone else',
+            'date':'04-11-2017'
+        }
+    ]
+
+    return articles
